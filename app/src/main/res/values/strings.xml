@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Save Fellows Info</string>
+    <string name="show">SHOW</string>
+    <string name="delete">DELETE</string>
+    <string name="insert">SAVE</string>
+    <string name="name">name!</string>
+    <string name="phone_number">phone number!</string>
+</resources>
